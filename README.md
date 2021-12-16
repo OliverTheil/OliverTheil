@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OliverTheil
+- 👋 Hi, I’m @OliverTheil, 26 and from Augsburg - Germany
 - 👀 I’m interested in very different things:
     - Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., Minecraft, JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., 
       All Soulslike-Games, and many many more
