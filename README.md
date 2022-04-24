@@ -18,16 +18,16 @@
 
 ## Languages and Tools:
 
-### ‣ HTML <br /><br />
-### ‣ CSS <br /><br />
-### ‣ JS <br /><br />
-### ‣ Angular <br /><br />
-### ‣ GIT <br /><br />
-### ‣ Scrum <br /><br />
-### ‣ APIs <br /><br />
-### ‣ Database <br /><br />
-### ‣ Hard- and Software <br /><br />
-### ‣ building, optimizing, overclocking and voltage regulation of computers. <br /><br />
+#### ‣ HTML <br />
+#### ‣ CSS <br />
+#### ‣ JS <br />
+#### ‣ Angular <br />
+#### ‣ GIT <br />
+#### ‣ Scrum <br />
+#### ‣ APIs <br />
+#### ‣ Database <br />
+#### ‣ Hard- and Software <br />
+#### ‣ building, optimizing, overclocking and voltage regulation of computers. <br /><br />
 
 ## Connect with me:
 
