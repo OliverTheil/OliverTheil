@@ -2,19 +2,19 @@
 
 ## My developer life:
 
-‣ 🌱 I’m currently learning JS, Angular, and much more 
-‣ 👯 I’m looking to collaborate with other content creators
-‣ 🥅 2022 Goals: Work as front end developer
-‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/Pokedex/
+‣ 🌱 I’m currently learning JS, Angular, and much more &nbsp;
+‣ 👯 I’m looking to collaborate with other content creators &nbsp;
+‣ 🥅 2022 Goals: Work as front end developer &nbsp;
+‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/Pokedex/ &nbsp;
 
 ### I’m interested in different things:
 
-‣ Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., All Soulslike-Games, and many     many more
-‣ Building and custom design/painting Gunplas
-‣ 3D Resin prints and painting
-‣ PC systems, builds and optimisation of soft- and hardware
-‣ Webdevelopment 
-‣ And many more!
+‣ Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., All Soulslike-Games, and many     many more &nbsp;
+‣ Building and custom design/painting Gunplas &nbsp;
+‣ 3D Resin prints and painting &nbsp;
+‣ PC systems, builds and optimisation of soft- and hardware &nbsp;
+‣ Webdevelopment &nbsp;
+‣ And many more! &nbsp;
 
 ### Languages and Tools:
 
@@ -22,9 +22,9 @@
 
 #### Connect with me:
 
-[website]: https://oliver-theil.de/Pokedex/
-[linkedin]: https://oliver-theil.de/Pokedex/
-[Xing]: https://oliver-theil.de/Pokedex/
+[website]: https://oliver-theil.de/Pokedex/ &nbsp;
+[linkedin]: https://oliver-theil.de/Pokedex/ &nbsp;
+[Xing]: https://oliver-theil.de/Pokedex/ &nbsp;
 
 
 
