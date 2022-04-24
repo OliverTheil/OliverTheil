@@ -1,15 +1,30 @@
-- 👋 Hi, I’m @OliverTheil, 26 and from Augsburg - Germany
-- 👀 I’m interested in very different things:
-    - Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., 
-      All Soulslike-Games, and many many more
-    - Building and custom design/painting Gunplas
-    - 3D Resin prints and painting
-    - PC systems, builds and optimisation of soft- and hardware
-    - Webdevelopment 
-    - ...
-- 🌱 I’m currently learning Javascript, Angular and 3D printing
+# Hi there, I'm Olli 👋 26 and from Augsburg - Germany. A creative mind, gamer, and front end developer!
 
-<!---
-OliverTheil/OliverTheil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My developer life:
+
+‣ 🌱 I’m currently learning JS, Angular, and much more 
+‣ 👯 I’m looking to collaborate with other content creators
+‣ 🥅 2022 Goals: Work as front end developer
+‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/Pokedex/
+
+### I’m interested in different things:
+
+‣ Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., All Soulslike-Games, and many     many more
+‣ Building and custom design/painting Gunplas
+‣ 3D Resin prints and painting
+‣ PC systems, builds and optimisation of soft- and hardware
+‣ Webdevelopment 
+‣ And many more!
+
+### Languages and Tools:
+
+
+
+#### Connect with me:
+
+[website]: https://oliver-theil.de/Pokedex/
+[linkedin]: https://oliver-theil.de/Pokedex/
+[Xing]: https://oliver-theil.de/Pokedex/
+
+
+
