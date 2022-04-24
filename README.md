@@ -7,15 +7,6 @@
 ‣ 🥅 2022 Goals: Work as front end developer <br /><br />
 ‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/Pokedex/ <br /><br />
 
-## I’m interested in different things:
-
-‣ Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., All Soulslike-Games, and many     many more <br /><br />
-‣ Building and custom design/painting Gunplas <br /><br />
-‣ 3D Resin prints and painting <br /><br />
-‣ PC systems, builds and optimisation of soft- and hardware <br /><br />
-‣ Webdevelopment <br /><br />
-‣ And many more! <br /><br />
-
 ## Languages and Tools:
 
 #### ‣ HTML <br />
@@ -28,6 +19,15 @@
 #### ‣ Database <br />
 #### ‣ Hard- and Software <br />
 #### ‣ building, optimizing, overclocking and voltage regulation of computers. <br /><br />
+
+## I’m interested in different things:
+
+‣ Gaming: Halo, RPG's like Skyrim, Fallout, the Witcher..., JRPG's like Nier, Monster Hunter, Xenoblade, Tales of Arise..., All Soulslike-Games, and many     many more <br /><br />
+‣ Building and custom design/painting Gunplas <br /><br />
+‣ 3D Resin prints and painting <br /><br />
+‣ PC systems, builds and optimisation of soft- and hardware <br /><br />
+‣ Webdevelopment <br /><br />
+‣ And many more! <br /><br />
 
 ## Connect with me:
 
