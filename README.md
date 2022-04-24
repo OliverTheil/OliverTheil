@@ -23,7 +23,8 @@
 #### Connect with me:
 
 [website]: https://oliver-theil.de/Pokedex/ <br /><br />
-[linkedin]: src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" https://oliver-theil.de/Pokedex/ <br /><br />
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;" />]
+[linkedin]: https://oliver-theil.de/Pokedex/ <br /><br />
 [Xing]: https://oliver-theil.de/Pokedex/ <br /><br />
 
 
