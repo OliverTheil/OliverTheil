@@ -5,7 +5,7 @@
 ‣ 🌱 I’m currently learning JS, Angular, and much more <br /><br />
 ‣ 👯 I’m looking to collaborate with other content creators <br /><br />
 ‣ 🥅 2022 Goals: Work as front end developer <br /><br />
-‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/Pokedex/ <br /><br />
+‣ ❤️ Check out my portfolio and my projects I created: LINK KOMMT BALD REIN <br /><br />
 
 ## Languages and Tools:
 
