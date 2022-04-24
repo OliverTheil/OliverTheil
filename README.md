@@ -22,10 +22,9 @@
 
 #### Connect with me:
 
-[website]: https://oliver-theil.de/Pokedex/ <br /><br />
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;"/>](https://oliver-theil.de/Pokedex/)
-[linkedin]: https://oliver-theil.de/Pokedex/ <br /><br />
-[Xing]: https://oliver-theil.de/Pokedex/ <br /><br />
+[Website]:[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>](https://oliver-theil.de/Pokedex/) <br /><br />
+[LinkedIn]:[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;"/>](https://oliver-theil.de/Pokedex/) <br /><br />
+[Xing]:[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/xing-fill.png" style="padding-right:10px;"/>](https://oliver-theil.de/Pokedex/) <br /><br />
 
 
 
