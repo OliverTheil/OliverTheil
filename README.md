@@ -18,14 +18,16 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/angularLogo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/cssLogo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/gitLogo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/htmlLogo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/jsLogo.png" style="padding-right:10px;"/>]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
+### ‣ HTML <br /><br />
+### ‣ CSS <br /><br />
+### ‣ JS <br /><br />
+### ‣ Angular <br /><br />
+### ‣ GIT <br /><br />
+### ‣ Scrum <br /><br />
+### ‣ APIs <br /><br />
+### ‣ Database <br /><br />
+### ‣ Hard- and Software <br /><br />
+### ‣ building, optimizing, overclocking and voltage regulation of computers. <br /><br />
 
 ## Connect with me:
 
