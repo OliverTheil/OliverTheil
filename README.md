@@ -18,7 +18,14 @@
 
 ## Languages and Tools:
 
-
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/angularLogo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/cssLogo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/gitLogo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/htmlLogo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/jsLogo.png" style="padding-right:10px;"/>]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>] 
 
 ## Connect with me:
 
