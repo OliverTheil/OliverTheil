@@ -5,7 +5,7 @@
 ‣ 🌱 I’m currently learning JS, Angular, and much more <br /><br />
 ‣ 👯 I’m looking to collaborate with other content creators <br /><br />
 ‣ 🥅 2022 Goals: Work as front end developer <br /><br />
-‣ ❤️ Check out my portfolio and my projects I created: LINK KOMMT BALD REIN <br /><br />
+‣ ❤️ Check out my portfolio and my projects I created: https://oliver-theil.de/ <br /><br />
 
 ## Languages and Tools:
 
@@ -31,7 +31,7 @@
 
 ## Connect with me:
 
-‣ My Portfolio [<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>](https://oliver-theil.de/Pokedex/) <br /><br />
+‣ My Portfolio [<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>](https://oliver-theil.de/) <br /><br />
 ‣ LinkedIn[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/oliver-theil/) <br /><br />
 ‣ Xing[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/xing-fill.png" style="padding-right:10px;"/>](https://www.xing.com/profile/Oliver_Theil2/cv) <br /><br />
 
