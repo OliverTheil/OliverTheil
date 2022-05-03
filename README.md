@@ -31,9 +31,9 @@
 
 ## Connect with me:
 
-‣ My Portfolio [<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>](https://oliver-theil.de/) <br /><br />
-‣ LinkedIn[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/oliver-theil/) <br /><br />
-‣ Xing[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/OliverTheil.de/src/assets/icons/xing-fill.png" style="padding-right:10px;"/>](https://www.xing.com/profile/Oliver_Theil2/cv) <br /><br />
+‣ My Portfolio [<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/portfolio/src/assets/logos/portfoliologo.png" style="padding-right:10px;"/>](https://oliver-theil.de/) <br /><br />
+‣ LinkedIn[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/portfolio/src/assets/icons/LinkedIn%201.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/oliver-theil/) <br /><br />
+‣ Xing[<img align="left" alt="CSS3" width="26px" src="https://github.com/OliverTheil/portfolio/blob/main/portfolio/src/assets/icons/xing-fill.png" style="padding-right:10px;"/>](https://www.xing.com/profile/Oliver_Theil2/cv) <br /><br />
 
 
 
