@@ -1,4 +1,4 @@
-# Hi there, I'm Olli 👋 26 and from Augsburg - Germany. A creative mind, gamer, and front end developer!
+# Hi there, I'm Olli 👋 27 and from Augsburg - Germany. A creative mind, gamer, and front end developer!
 
 ## My developer life:
 
